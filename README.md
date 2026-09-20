@@ -3,7 +3,7 @@
 
 <img src="pack.png" alt="Electric PvP Logo" width="256" />
 
-  **A collaborative project bringing custom songs to Minecraft, made with care and dedication.**
+  **Electric 16x is a PvP texture pack made by oddish to increase performance and skills without sacrificing Minecraft's signature look.**
 
 [![Download on Modrinth](https://raw.githubusercontent.com/Evergreen-Labs-MC/PvP-Tweaks/main/assets/badges/modrinth.svg)](https://modrinth.com/resourcepack/electric16x) [![View on GitHub](https://raw.githubusercontent.com/Evergreen-Labs-MC/PvP-Tweaks/main/assets/badges/github.svg)](https://github.com/Evergreen-Labs-MC/Electric-PvP)
 
